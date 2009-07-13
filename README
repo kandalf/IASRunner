@@ -1,0 +1,7 @@
+IASRunner
+=========
+
+Flex project to expose an ExternalInterface to be used with Fluxy (http://github.com/kandalf/fluxy/tree/master)
+It relies on intrASpection (http://github.com/fpanettieri/intrASpection/tree/master) library so you need it to compile IASRunner.
+
+This is on a very early stage so it will probably change a lot from now, but it sets the basic steps right now.

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" creationComplete="onCreationComplete()">
+    <mx:Script source="IASRunnerController.as" />
+    
+    <mx:VBox width="300" height="200">
+        <mx:Label id="msgLabel" text="Message Label" />
+    </mx:VBox>
+</mx:Application>
