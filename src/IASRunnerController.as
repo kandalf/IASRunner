@@ -11,7 +11,7 @@ private var _ias:IAS;
 public function onCreationComplete() : void {
    _ias = new IAS();
     
-    _ias.addEventListener(IASEvent.IAS_LOADED, onIASLoaded);
+    _ias.addEventListener(IASEvent.LOADED, onIASLoaded);
     ExternalInterface.addCallback("loadApplication", loadApplication);
     ExternalInterface.addCallback("setMessage", setMessage);
     ExternalInterface.addCallback("execute", iasExecute);

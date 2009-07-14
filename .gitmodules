@@ -1,0 +1,3 @@
+[submodule "intrASpection"]
+	path = intrASpection
+	url = git://github.com/fpanettieri/intrASpection.git
