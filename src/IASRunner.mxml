@@ -3,6 +3,6 @@
     <mx:Script source="IASRunnerController.as" />
     
     <mx:VBox width="300" height="200">
-        <mx:Label id="msgLabel" text="Message Label" />
+        <mx:Label id="msgLabel" text="Message Label" fontSize="12" fontWeight="bold" />
     </mx:VBox>
 </mx:Application>
